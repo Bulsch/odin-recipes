@@ -1,0 +1,29 @@
+body{
+    font-family: "Comicsans", "Times New Roman", serif;
+    background-color: lightblue;
+}
+
+.description, .ingredients{
+    text-align: center;
+}
+
+.description {
+    background-color: brown;
+    color: white;
+}
+
+.ingredients {
+    color: lightblue;
+    font-style: italic;
+    font-size: 0.75em;
+    background-color: brown;
+}
+
+.directions {
+    color: blue;
+    background-color: cyan;
+}
+
+h1,h2,h3,h4{
+    text-align: center;
+}
